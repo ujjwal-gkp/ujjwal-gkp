@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @UkTheSyco
-- 👀 I’m interested in >>>      Everything related to coading world
-- 🌱 I’m currently learning >>> Unity Game Engine
-- 💞️ I’m looking to collaborate on >>> Now I M Learning
-- 📫 How to reach me ...  InstaAccount : ujjwal.gkp
+- 👋 Hi, I’m Ujjwal Yadav
+- 👀 I’m interested in   -->   Everything Related To Coading World
+- 🌱 I’m currently learning  -->   Unity Game Engine
+- 📫 How to reach me     -->   https://instagram.com/ujjwal.gkp
+- 🖊️ I know --> ```Web Development (PHP, HTML, CSS, JS, JQuery)``` ```Android Studio (Java, XML)``` ```Unity 3D (C#)[Average]``` ```Python```
 
-                             Hellow World!
-
-<!---
-UkTheSyco/UkTheSyco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+        a + (b - a) * t
